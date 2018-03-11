@@ -48,3 +48,5 @@ icon['white'] | "http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png" | 
 icon['yellow'] | "http://maps.google.com/mapfiles/kml/paddle/ylw-blank-lv.png" | > 0 & < 10
 icon['green'] | "http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png" | > 10 & < 100
 icon['blue'] | "http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png" | > 100
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1sCSugR5wpVfeQS_k0NDB-ihedFjxIMDS" width="640" height="480"></iframe>
