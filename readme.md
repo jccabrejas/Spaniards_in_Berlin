@@ -1,5 +1,9 @@
 # Spaniards in Berlin
 
+
+![alt text](https://github.com/jccabrejas/Spaniards_in_Berlin/blob/master/media/spaniards_berlin_2017.png "Spaniards in Berlin")
+
+
 ## Export stats
 
 Data obtained from Einwohnerregisterstatistik Berlin
